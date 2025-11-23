@@ -52,7 +52,7 @@ function limparCampo() {
 
 function exibirMensagemInicial() {
   exibirTextoNaTela("h1", "Jogo do número secreto");
-  exibirTextoNaTela("p", "Escolha um número entre 1 e 100");
+  exibirTextoNaTela("p", "Adivinhe um número entre 1 e 100");
 }
 
 function reiniciarJogo() {
